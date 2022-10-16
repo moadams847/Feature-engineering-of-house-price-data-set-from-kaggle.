@@ -6,6 +6,10 @@ Data preprocessing of kaggle house price data.
 
 The goal of this project is to learn how data is processed before machine learning models are applied to it.
 
+## Notebook 
+
+[URL](https://www.kaggle.com/adamsmohammed/feature-engineering/edit)
+
 ## Installation
 
 1. Clone Repo
